@@ -1,0 +1,6 @@
+{
+  "name": "PrintAI – Smart Printing Management Dashboard",
+  "description": "Centralized AI-powered smart printing management dashboard with document upload, print job tracking, Gemini RAG assistant, analytics, and n8n automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
